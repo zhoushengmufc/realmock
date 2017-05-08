@@ -1,6 +1,6 @@
 # realmock 前后端分离方案
 
-express + randomjson 模拟后端服务，前端服务器将请求代理到该服务器地址即可
+express + randomjson 模拟后端服务，前端服务器(比如webpack, nigix等)将请求代理到该服务器地址即可
 
 ## realmock优势
 
@@ -10,10 +10,10 @@ express + randomjson 模拟后端服务，前端服务器将请求代理到该�
 
 3，结合randomjson的随机json生成功能，比如生成指定大小的图片，生成超大json等，mock数据更轻松 
 
-randomjson地址：
+randomjson地址：https://github.com/finance-sh/randomjson
 
 
-## 使用 下载项目到本地，进入文件夹，
+## 使用 下载项目到本地，进入文件夹
 
 ## 默认将json存放在在mock文件夹中
 
