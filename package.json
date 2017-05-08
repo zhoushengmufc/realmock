@@ -1,0 +1,39 @@
+{
+  "name": "realmock",
+  "version": "1.0.0",
+  "description": "A way to achieve the separation of front and back",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoushengmufc/realmock.git"
+  },
+  "keywords": [
+    "A",
+    "way",
+    "to",
+    "achieve",
+    "the",
+    "separation",
+    "of",
+    "front",
+    "and",
+    "back"
+  ],
+  "author": "zhoushengmufc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoushengmufc/realmock/issues"
+  },
+  "homepage": "https://github.com/zhoushengmufc/realmock#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "randomjson": "^1.0.6",
+    "nodemon": "^1.11.0",
+    "body-parser": "^1.17.1",
+    "multer": "^1.3.0"
+  }
+}

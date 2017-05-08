@@ -1,0 +1,16 @@
+{
+  "code":"00",
+  "msg": "<@string{2}>",
+  "res<@{3,10}>": [
+    {
+      "no": "<@index>",
+      "id": "<@number{4}>",
+      "projectId": "<@number{4}>",
+      "date": "201<@number{1}>-<@[1-12]>-<@[1-31]>",
+      "total": "<@number{2}>",
+      "amount": "<@number{8}>",
+      "status": "<@[1,2,3,4]>",
+      "time": "201<@number{1}>-<@number{2}>-<@number{2}>"
+    }
+  ]
+}
