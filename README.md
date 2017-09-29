@@ -10,7 +10,7 @@ express + randomjson 模拟后端服务，前端服务器(比如webpack, nigix�
 
 3，结合randomjson的随机json生成功能，比如生成指定大小的图片，生成超大json等，mock数据更轻松 
 
-randomjson地址：https://github.com/finance-sh/randomjson
+randomjson地址：https://github.com/zhoushengmufc/randomjson
 
 
 ## 使用 下载项目到本地，进入文件夹
