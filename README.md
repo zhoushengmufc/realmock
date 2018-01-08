@@ -87,7 +87,7 @@ http://localhost:3001/api/get?type=1
 
 http://localhost:3001/api/get
 
-## webapck fis3 gulp 代理
+## webpack fis3 gulp 代理
 
 使用工程构建工具的代理功能，代理到realmock的服务器地址即可
 
